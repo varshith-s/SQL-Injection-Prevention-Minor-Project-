@@ -1,0 +1,49 @@
+.body{
+    background-image: url("imgs/bg2.webp");
+    position: relative;
+    background-size: cover;
+    
+}
+header{
+    margin-top:0px;
+    position:relative;
+}
+.nav{
+    margin: 0;
+    text-align: center;
+}
+.text{
+    text-decoration:double;
+    margin: 10px 10px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+   
+}
+a li{
+    margin: 0;
+    display: inline-block;
+    list-style: none;
+}
+button{
+    margin-top:15px;
+    margin-right: 5px;
+    margin-left:5px;
+     border:0;
+     border-radius: 50px;
+     background-color: bisque;
+}
+
+img{
+    margin-left:434px;
+    margin-top:20px;
+    border-radius: 10%;
+    
+}
+img:hover{
+    transition: transform 1s;
+    transform:rotate(360deg);
+}
+
+ol{
+    margin-left: 490px;
+    text-shadow: 20px;
+}
